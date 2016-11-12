@@ -10,6 +10,7 @@
  */
 public class lexicographic {
     
+<<<<<<< HEAD
     public static void main(String args[]){
         String charset = "ABC";
         
@@ -17,4 +18,6 @@ public class lexicographic {
         
     }
     
+=======
+>>>>>>> 4be842f3e2e91f6560bfc430378325417c0682e0
 }
